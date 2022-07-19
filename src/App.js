@@ -1,10 +1,10 @@
 import React from "react";
-import ItemContainer from "./Pages/ItemContainer";
+// import ItemContainer from "./Pages/ItemContainer";
 
 function App() {
   return (
     <div>
-      <ItemContainer />
+      {/* <ItemContainer /> */}
     </div>
   );
 }

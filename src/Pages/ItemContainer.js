@@ -1,10 +1,10 @@
 import React from "react";
-import Item from "../components/Item";
+// import Item from "../components/Item";/
 
 const ItemContainer = () => {
     return (
         <div>
-            <Item />
+            {/* <Item /> */}
         </div>
     )
 }
